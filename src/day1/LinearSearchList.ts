@@ -8,5 +8,4 @@ export default function linear_search(haystack: number[], needle: number): boole
 }
 
 let haystack = [1,4,5,2,5,5]
-let answer = linear_search(haystack, 4)
-console.log(answer)
+let answer = linear_search(haystack, 3)
